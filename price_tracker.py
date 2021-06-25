@@ -1,4 +1,5 @@
 import requests
+import numpy
 from bs4 import BeautifulSoup              # Beautifu soap : This is used to parse the content of web page
 
 prod_list = [
